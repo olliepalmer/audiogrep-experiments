@@ -4,3 +4,6 @@ env/
 *.egg-info
 build/
 dist/
+*.mp3
+*.txt
+audio/
