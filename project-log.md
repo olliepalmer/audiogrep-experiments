@@ -5,7 +5,7 @@ This will one day replace the readme.md file, but for now it's just my record of
 
 ## Idea
 
-The idea is to put a workflow together to take audio recordings, cut them up, categorise them, then use them in generative compositions which somehow reflect the place they're made.
+The idea is to put a workflow together to take audio recordings, cut them up, categorise them, then use them in generative compositions which somehow reflect the place they're made. This follows on from a project I half-developed at [V2_](httsp://v2.nl) last year as part of a [Summer Sessions](https://summersessions.net) residency. 
 
 
 ## The process
